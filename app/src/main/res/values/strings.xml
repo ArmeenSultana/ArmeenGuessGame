@@ -1,0 +1,7 @@
+<resources>
+    <string name="input_hint">Guess Number</string>
+    <string name="logo_description">Logo of Enigma Riddle</string>
+    <string name="app_name">ArmeenGuessGame</string>
+    <string name="game_name">Enigma Riddle</string>
+
+</resources>
